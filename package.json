@@ -1,0 +1,25 @@
+{
+  "name": "@soliton/com-met",
+  "version": "1.0.2",
+  "description": "this is common function methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OK-zxl/Com-met.git"
+  },
+  "keywords": [
+    "soliton",
+    "methods",
+    "common",
+    "package"
+  ],
+  "author": "soliton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OK-zxl/Com-met/issues"
+  },
+  "homepage": "https://github.com/OK-zxl/Com-met#readme"
+}
